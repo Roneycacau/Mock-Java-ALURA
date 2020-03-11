@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c762440-68c5-4064-a9b4-54af779d6a40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwJWVce70SERIpqJLC0SuTz0u8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/br/com/caelum/leilao/infra" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.caelum.leilao.infra.pagamento" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.caelum.leilao.infra.email" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GeradorDePagamentoTest.deveEmpurrarParaOProximoDiaUtilDomingo">
+    <configuration name="EncerradorDeLeilaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste-de-unidade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.leilao.infra.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.leilao.servico" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.leilao.servico.EncerradorDeLeilaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeradorDePagamentoTest.deveEmpurrarParaOProximoDiaUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste-de-unidade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.leilao.infra.pagamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.leilao.infra.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.leilao.infra.pagamento.GeradorDePagamentoTest" />
+      <option name="METHOD_NAME" value="deveEmpurrarParaOProximoDiaUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeradorDePagamentoTest.deveEmpurrarParaOProximoDiaUtilDomingo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste-de-unidade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.leilao.infra.pagamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.leilao.infra.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.leilao.infra.pagamento.GeradorDePagamentoTest" />
+      <option name="METHOD_NAME" value="deveEmpurrarParaOProximoDiaUtilDomingo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeradorDePagamentoTest.deveGerarPagamentoParaUmLeilaoEncerrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste-de-unidade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.leilao.infra.pagamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.leilao.infra.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.leilao.infra.pagamento.GeradorDePagamentoTest" />
+      <option name="METHOD_NAME" value="deveGerarPagamentoParaUmLeilaoEncerrado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeradorDePagamentoTest.devemosGerarPagamentoParaUmLeilaoEncerrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste-de-unidade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.leilao.infra.pagamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.leilao.infra.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.leilao.infra.pagamento.GeradorDePagamentoTest" />
+      <option name="METHOD_NAME" value="devemosGerarPagamentoParaUmLeilaoEncerrado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GeradorDePagamentoTest.deveEmpurrarParaOProximoDiaUtilDomingo" />
+        <item itemvalue="JUnit.GeradorDePagamentoTest.deveEmpurrarParaOProximoDiaUtil" />
+        <item itemvalue="JUnit.GeradorDePagamentoTest.deveGerarPagamentoParaUmLeilaoEncerrado" />
+        <item itemvalue="JUnit.GeradorDePagamentoTest.devemosGerarPagamentoParaUmLeilaoEncerrado" />
+        <item itemvalue="JUnit.EncerradorDeLeilaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c762440-68c5-4064-a9b4-54af779d6a40" name="Default Changelist" comment="" />
+      <created>1583847754111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583847754111</updated>
+      <workItem from="1583847755624" duration="23334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="280" y="69" key="#GeradorDePagamentoTest" timestamp="1583864448800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="69" key="#GeradorDePagamentoTest/0.0.1366.728@0.0.1366.728" timestamp="1583864448800" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1583937914025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583937914025" />
+    <state x="413" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583863036429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583863036429" />
+    <state x="301" y="269" width="418" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583861271227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="269" width="418" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583861271227" />
+    <state width="1322" height="107" key="GridCell.Tab.0.bottom" timestamp="1583944962252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583944962252" />
+    <state width="1322" height="107" key="GridCell.Tab.0.center" timestamp="1583944962252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583944962252" />
+    <state width="1322" height="107" key="GridCell.Tab.0.left" timestamp="1583944962251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583944962251" />
+    <state width="1322" height="107" key="GridCell.Tab.0.right" timestamp="1583944962252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583944962252" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1583937627124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583937627124" />
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583847916717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1583847916717" />
+    <state x="437" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583863037867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1583863037867" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1583860207051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583860207051" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583937597568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583937597568" />
+  </component>
+</project>
